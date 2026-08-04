@@ -1,6 +1,6 @@
 cask "must-today" do
-  version "0.2.4"
-  sha256 "ec10f68b5f201339ef7098b7acd50f675ee5b47235f568427db037554b74f51e"
+  version "0.2.5"
+  sha256 "7042943959f72c9c0bb8b017c40d6b26cca79d678bd64d6557f299c8c1045686"
 
   url "https://github.com/box-kr/must-today/releases/download/v#{version}/MustToday-#{version}.zip"
   name "MustToday"
